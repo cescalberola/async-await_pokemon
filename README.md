@@ -30,5 +30,5 @@ In this first exercise, I work with the Pokémon API 'https://pokeapi.co/' and u
 
 #Preview
 <p align="center">
-  <img src="/Screenshot 2023-10-17 at 22.06.25.png">
+  <img src="/preview-img.png">
 </p>
