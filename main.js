@@ -28,3 +28,27 @@ async function obtenerPokemonAleatorio() {
     }
   }
   
+  function mostrarPokemonEnDOM(pokemon) {
+    const nombrePokemon = document.getElementById('pokemonName');
+    const imagenPokemon = document.getElementById('pokemonImg');
+  
+    nombrePokemon.textContent = pokemon.name;
+    imagenPokemon.src = pokemon.image;
+  }
+
+async function obtenerYMostrarPokemon() {
+    try {
+      const randomPokemon = await obtenerPokemonAleatorio();
+      const detallesPokemon = await obtenerDetallesPokemon(randomPokemon);
+      mostrarPokemonEnDOM(detallesPokemon);
+
+    } catch (error) {
+      console.error('Error al obtener y mostrar el Pokémon', error);
+    }
+  }
+  
+  obtenerYMostrarPokemon();
+  
+  const refreshButton = document.getElementById('refresh-button');
+  refreshButton.addEventListener('click', obtenerYMostrarPokemon);
+  
