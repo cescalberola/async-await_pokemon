@@ -1,0 +1,12 @@
+.card-container {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#pokemonImg {
+    width: 100%;
+    justify-content: center;
+}
