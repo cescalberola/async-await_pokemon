@@ -28,4 +28,7 @@ In this first exercise, I work with the Pokémon API 'https://pokeapi.co/' and u
 
 **Note:** It's important to note that to find the Pokémon's image, I may need to make multiple Axios requests, depending on the API's structure and the query path I use.
 
-
+#Preview
+<p align="center">
+  <img src="/Screenshot 2023-10-17 at 22.06.25.png">
+</p>
