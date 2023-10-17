@@ -1,6 +1,6 @@
 # Asynchronous and API Exercises with Pokémon
 
-![Generic Pokémon Image](https://imgs.search.brave.com/hikRmS6QsDsOmG0_eJKrW3hZ0qYqdb1wodaHhOqRlYE/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5ncGxheS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzEwL1Bv/a2Vtb24tVHJhbnNw/YXJlbnQtRnJlZS1Q/TkcucG5n)
+![Generic Pokémon Image](https://imgs.search.brave.com/xp_Eeqqxn5knvBMlcQ4pk_uGRGJgEBcAAVsRjiwhhoU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvZmVhdHVy/ZWQvYWxsLXBva2Vt/b24tcGljdHVyZXMt/Ymg3MzBzOHpyNzR4/c2MycC5qcGc)
 
 Hello! In this repository, you will find a series of exercises designed to help me understand the concepts of asynchrony and API usage in JavaScript, specifically with Axios and Async/Await. My main goals in these exercises are:
 
