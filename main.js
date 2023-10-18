@@ -9,7 +9,6 @@ async function obtenerPokemonAleatorio() {
       return randomPokemon;
     } catch (error) {
       console.error('Error al obtener un Pokémon aleatorio', error);
-      throw error;
     }
   }
 
@@ -24,7 +23,6 @@ async function obtenerPokemonAleatorio() {
     } catch (error) {
       console.error('Error al obtener detalles del Pokémon', error);
 
-      throw error;
     }
   }
   
