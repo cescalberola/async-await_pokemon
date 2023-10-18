@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repository)
+![GitHub contributors](https://img.shields.io/github/contributors/your-username/your-repository)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repository?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-username/your-repository?style=social)
+
 # Asynchronous and API Exercises with Pokémon
 
 <p align="center">
@@ -29,6 +34,13 @@ In this first exercise, I work with the Pokémon API 'https://pokeapi.co/' and u
 **Note:** It's important to note that to find the Pokémon's image, I may need to make multiple Axios requests, depending on the API's structure and the query path I use.
 
 #Preview
+
 <p align="center">
   <img src="/preview-img.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" alt "CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">
 </p>
